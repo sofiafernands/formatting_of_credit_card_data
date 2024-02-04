@@ -1,3 +1,3 @@
 # libreria de utilidades para formatear numero de tarjeta de credito y fechas 
 
-# Descripcion 
+# Descripcion : creacion de paquete npm, apto para ser consumido
